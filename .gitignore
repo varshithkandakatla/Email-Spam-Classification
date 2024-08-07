@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+
+data/
+bin/
+lib/
+etc/
+Scripts/
+share/
+.ipynb_checkpoints/
+
+pyvenv.cfg
